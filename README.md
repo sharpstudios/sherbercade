@@ -4,7 +4,7 @@ A website where games are created around an image of Mikey Herbert (Sherbert).
 
 ## Host Website
 
-Latest Beta Version - http://sherbernog.ml/sherbercade/<br>0.1 Beta - http://archive.sherbernog.ml/sherbercade/0.1/
+<b>Latest Beta Version</b> - http://sherbernog.ml/sherbercade/<br>0.1 Beta - http://archive.sherbernog.ml/sherbercade/0.1/
 
 ## Notes
 
